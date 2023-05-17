@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xdroid_alioth.mk
+    $(LOCAL_DIR)/dot_alioth.mk
 
 COMMON_LUNCH_CHOICES := \
-    xdroid_alioth-user \
-    xdroid_alioth-userdebug \
-    xdroid_alioth-eng
+    dot_alioth-user \
+    dot_alioth-userdebug \
+    dot_alioth-eng
