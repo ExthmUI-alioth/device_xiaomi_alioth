@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ssos_alioth.mk
+    $(LOCAL_DIR)/exthm_alioth.mk
 
 COMMON_LUNCH_CHOICES := \
-    ssos_alioth-user \
-    ssos_alioth-userdebug \
-    ssos_alioth-eng
+    exthm_alioth-user \
+    exthm_alioth-userdebug \
+    exthm_alioth-eng
